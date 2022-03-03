@@ -3,8 +3,8 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-PROJECT_NAME = "perceptron_pkg"
-USER_NAME = "baizelkv"
+PROJECT_NAME = "package"
+USER_NAME = "devbk007"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
