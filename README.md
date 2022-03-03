@@ -1,5 +1,11 @@
 # Perceptron python package
 A small perceptron package
+
+## How to use this package
+```python
+from perceptron.perceptron import Perceptron
+model = Perceptron(eta=0.3,epochs=10)
+```
 ## References - 
 
 *[Official python docs for PYPI](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
